@@ -80,7 +80,7 @@ button:hover {
   opacity: 0.8;
 }
 
-.form_container {
+.form-container {
   margin: auto;
   margin-top: 50px;
   max-width: 500px;
@@ -104,16 +104,16 @@ button:hover {
   margin-top: 30px;
 }
 
-.carousel_row {
+.carousel-row {
   display: flex;
   margin-top: -10px;
 }
 
-.carousel_column {
+.carousel-column {
   padding: 10px;
 }
 
-.carousel_column img {
+.carousel-column img {
   width: 100%;
 }
 
