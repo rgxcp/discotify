@@ -39,6 +39,7 @@ button {
 
 /* Footer */
 footer {
+  background-color: #ffffff;
   bottom: 0px;
   left: 0px;
   position: fixed;
@@ -48,6 +49,7 @@ footer {
 
 hr {
   color: #fafafa;
+  margin-top: 0px;
 }
 
 /* Content */
@@ -82,4 +84,35 @@ button:hover {
   margin: auto;
   margin-top: 50px;
   max-width: 500px;
+}
+
+.profile img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  max-height: 150px;
+  max-width: 150px;
+  width: 15%;
+}
+
+.profile h1 {
+  text-align: center;
+}
+
+.carousel {
+  margin-top: 30px;
+}
+
+.carousel_row {
+  display: flex;
+  margin-top: -10px;
+}
+
+.carousel_column {
+  padding: 10px;
+}
+
+.carousel_column img {
+  width: 100%;
 }
