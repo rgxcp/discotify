@@ -1,7 +1,7 @@
 const getCurrentYear = () => {
   return new Date().getFullYear();
 };
-const currentYearElement = document.getElementById('current_year');
+const currentYearElement = document.getElementById('current-year');
 if (currentYearElement) {
   currentYearElement.innerHTML = getCurrentYear();
 }
