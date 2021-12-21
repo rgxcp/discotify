@@ -1,4 +1,4 @@
-# HTML/CSS/JavaScript - Discotify
+# 💃 HTML/CSS/JavaScript - Discotify
 **EN**: Static website for discovering musical artists.
 
 **ID**: Website statis untuk menemukan artis musikal.
