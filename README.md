@@ -1,7 +1,5 @@
-# 💃 HTML/CSS/JavaScript - Discotify
-**EN**: Static website for discovering musical artists.
-
-**ID**: Website statis untuk menemukan artis musikal.
+# 💃 Discotify
+Static website for discovering musical artists.
 
 ## Status
 END OF LIFE
